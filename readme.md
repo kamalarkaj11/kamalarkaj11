@@ -135,13 +135,13 @@ My focus areas include **Django development**, **REST API integration**, **OTP a
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kamalarkaj11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A855F7&text_color=CBD5E1" alt="Arkaj Kamal GitHub stats" />
+
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=kamalarkaj11&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=A855F7&currStreakLabel=22D3EE" alt="Arkaj Kamal GitHub streak" />
 
   <br />
   <br />
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalarkaj11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=CBD5E1" alt="Most used languages" />
+
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamalarkaj11&theme=tokyonight&utcOffset=5.5" alt="Productive time card" />
 
   <br />
@@ -153,9 +153,6 @@ My focus areas include **Django development**, **REST API integration**, **OTP a
 
 <br />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kamalarkaj11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub profile trophies" />
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12" width="100%" alt="Neon divider" />
 
