@@ -155,14 +155,13 @@ My focus areas include **Django development**, **REST API integration**, **OTP a
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12" width="100%" alt="Neon divider" />
-
+Pac-Man 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamalarkaj11/kamalarkaj11/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamalarkaj11/kamalarkaj11/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kamalarkaj11/kamalarkaj11/output/pacman-contribution-graph.svg">
 </picture>
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="28" alt="Goals" /> Achievements & Goals
 
 <table>
   <tr>
