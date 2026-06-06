@@ -135,8 +135,9 @@ My focus areas include **Django development**, **REST API integration**, **OTP a
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com?user=kamalarkaj11&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=kamalarkaj11&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=A855F7&currStreakLabel=22D3EE" alt="Arkaj Kamal GitHub streak" />
+</div>
 
   <br />
   <br />
