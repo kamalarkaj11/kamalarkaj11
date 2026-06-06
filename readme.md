@@ -137,7 +137,7 @@ My focus areas include **Django development**, **REST API integration**, **OTP a
 
 <img src="https://streak-stats.demolab.com?user=kamalarkaj11&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-</div>
+
 
   <br />
   <br />
