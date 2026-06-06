@@ -131,7 +131,7 @@ My focus areas include **Django development**, **REST API integration**, **OTP a
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=24" width="100%" alt="Neon divider" />
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" alt="Git" /> GitHub Analytics
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" alt="Git"/> GitHub Analytics
 
 <div align="center">
 
