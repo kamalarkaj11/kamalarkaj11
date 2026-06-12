@@ -156,7 +156,7 @@ My focus areas include **Django development**, **REST API integration**, **OTP a
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12" width="100%" alt="Neon divider" />
-Pac-Man 
+<h3 align = "center">Pac-Man  </h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamalarkaj11/kamalarkaj11/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamalarkaj11/kamalarkaj11/output/pacman-contribution-graph.svg">
@@ -234,4 +234,3 @@ Pac-Man
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:06b6d4,45:7c3aed,100:020617&animation=fadeIn" width="100%" alt="Footer wave" />
 </div>
-add the pac-man
