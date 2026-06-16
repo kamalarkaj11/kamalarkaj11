@@ -7,6 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=950&lines=Building+scalable+Django+web+applications;Designing+secure+authentication+systems;Creating+REST+APIs+and+responsive+interfaces;Exploring+AI-powered+full-stack+experiences" alt="Animated typing introduction" />
   </a>
 
+# This is a profile view
   <br />
 
   <img src="https://komarev.com/ghpvc/?username=kamalarkaj11&style=for-the-badge&label=Profile%20Views&color=06b6d4" alt="Profile views" />
