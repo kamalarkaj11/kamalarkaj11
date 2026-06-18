@@ -1,5 +1,3 @@
-# Arkaj Kamal Repo....
-
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,45:312e81,75:7c3aed,100:06b6d4&text=Arkaj%20Kamal&fontColor=e0f2fe&fontSize=62&fontAlignY=36&animation=fadeIn&desc=Python%20Django%20Full-Stack%20Developer&descAlignY=56&descSize=20" width="100%" alt="Arkaj Kamal futuristic banner" />
@@ -7,8 +5,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=950&lines=Building+scalable+Django+web+applications;Designing+secure+authentication+systems;Creating+REST+APIs+and+responsive+interfaces;Exploring+AI-powered+full-stack+experiences" alt="Animated typing introduction" />
   </a>
-
-# This is a profile view
 
   <br />
 
@@ -20,7 +16,6 @@
 
 <br />
 
-# This is the github Content
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216656971-9a208bfe-9f3f-4b61-8c2d-a10c72a00c90.gif" width="420" alt="Developer coding animation" />
 </div>
