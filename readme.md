@@ -62,7 +62,6 @@ My focus areas include **Django development**, **REST API integration**, **OTP a
 <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql&theme=dark" alt="Languages" />
 
 <br />
-<br />
 
 ![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
